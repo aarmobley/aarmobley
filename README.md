@@ -5,7 +5,7 @@
 
 ## A little about myself
 
-My name is Aaron and I have been going through the Data Science program at Bethel school of Technology this past year.
+My name is Aaron and I have been going through the Data Science program at Bethel school of Technology this past year. <br>
 Here are a few of the skills I have mastered:
 
 | Rank | MY SKILLS |
