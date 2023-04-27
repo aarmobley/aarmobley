@@ -7,8 +7,8 @@
 
 ## A little about myself
 
-My name is Aaron and I have been going through the Data Science program at Bethel school of Technology this past year. <br>
-I have a passion for the outdoors and nature as well as fishing and surfing. Data Science is a hobby I am quickly becoming <br>
+I have been going through the Data Science program at Bethel school of Technology this past year. <br>
+I have a passion for the outdoors and nature as well as fishing and surfing. Data Science is a career I am quickly becoming <br>
 obsessed with.
 Here are a few of the skills I have mastered:
 
@@ -20,3 +20,5 @@ Here are a few of the skills I have mastered:
 |     4| MongoDB
 |     5| Tableau 
 |     6| ML Models
+
+Check out my projects and contact me with any questions you mey have
