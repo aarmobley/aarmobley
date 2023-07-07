@@ -1,6 +1,6 @@
 ## Hello, friends 
 <div id="header" align="center">
-  <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/sunrise-over-the-salt-marsh-david-lloyd-glover.jpg" width="900"/>
+  <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/sunrise-over-the-salt-marsh-david-lloyd-glover.jpg" width="700"/>
 </div>
 
 ### Hello! My name is Aaron Mobley and I am a Data Scientist/Programmer 👋
