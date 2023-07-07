@@ -3,11 +3,11 @@
   <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/sunrise-over-the-salt-marsh-david-lloyd-glover.jpg" width="700"/>
 </div>
 
-### Hello! My name is Aaron Mobley and I am a Data Scientist/Programmer 👋
+### Hello! My name is Aaron Mobley and I am a Data Scientist/Analyst 👋
 
-## A little about myself
+## A little about me
 
-+ I have been going through the Data Science program at Bethel school of Technology this past year. <br>
++ I studied Data Science at Bethel College's School of Technology. <br>
 + I have a passion for the outdoors and nature as well as fishing and surfing. Data Science is a career I am quickly becoming <br>
 + obsessed with. <br>
 + Communication skills are something that sets me a part from others. I believe that communicating well with colleagues and being able <br>
